@@ -1,9 +1,1 @@
-s
-cd ..
-cd
-clear
-Adding text to test2.txt file.
-wq
-"wq"
-Adding additional text to this file.
-
+Adding new text to test2.txt for testing.
