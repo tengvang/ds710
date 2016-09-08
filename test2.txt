@@ -1,0 +1,9 @@
+s
+cd ..
+cd
+clear
+Adding text to test2.txt file.
+wq
+"wq"
+Adding additional text to this file.
+
